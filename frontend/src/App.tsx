@@ -15,7 +15,7 @@ const App: React.FC = () => {
             <CustomAppBar position="static">
                 <Toolbar>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                        <LogoLink to="/">Moda AI</LogoLink>
+                        <LogoLink to="/">Moda</LogoLink>
                     </Typography>
                     <NavButton to="/product">Demo</NavButton>
                 </Toolbar>
